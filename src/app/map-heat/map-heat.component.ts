@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import * as L from 'leaflet';
 import * as data from '../policy.json';
 declare let L;
 import { addressPoints} from '../../assets/policy';
